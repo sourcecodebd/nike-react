@@ -1,2 +1,2 @@
 # nike-react
-This is simple website made with Bootstrap framework, check it out!
+This is a simple website made with the Bootstrap framework, check it out!
