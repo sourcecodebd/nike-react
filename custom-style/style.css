@@ -1,0 +1,37 @@
+header {
+    background-color: #FFF9F4;
+    padding-top: 80px
+}
+
+.search-bar input{
+    height: 48px;
+    background-color: #F1F1F1;
+    color: #947272;
+    border: none;
+    border-radius: 66px;
+    padding: 12px 0px 12px 28px;
+    font-family: 'Quicksand', sans-serif;
+    font-style: italic;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+textarea:focus, input:focus{
+    outline: none;
+}
+
+.fa-search {
+    position: relative;
+    left: -40px;
+    color: #CCCCCC;
+    font-size: 21px
+}
+
+.nav-custom {
+    color: white;
+    background-color: #FFF9F4;
+}
+
+.text-justify {
+    text-align: justify
+}
