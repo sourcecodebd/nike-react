@@ -1,6 +1,24 @@
+/* Bebus Neue */
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+/* Roboto */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;400&display=swap');
+
 header {
     background-color: #FFF9F4;
-    padding-top: 80px
+}
+
+h1 {
+    font-family: Bebas Neue;
+    font-style: normal;
+    font-weight: bold;
+}
+
+p {
+    font-family: Roboto
+}
+
+.heading-text {
+    font-size: 70px;
 }
 
 .search-bar input{
